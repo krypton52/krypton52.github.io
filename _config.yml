@@ -281,27 +281,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts/dfir"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  - scope:
-      path: "_posts/ctf"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  - scope:
-      path: "_posts/other"
+      path: "/dfir/"
       type: posts
     values:
       layout: single
