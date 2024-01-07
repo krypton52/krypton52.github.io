@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "DFIR"
-    url: /_posts/dfir
+    url: /dfir
   - title: "CTF Write-Ups"
     url: /_posts/ctf
   - title: "Other"
