@@ -1,7 +1,5 @@
 ---
-layout: page
 permalink: /posts/other/
-title: Posts about "other"
 ---
 
 <div class="posts">
