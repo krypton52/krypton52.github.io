@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "DFIR"
-    url: /dfir
+    url: /posts/dfir
   - title: "CTF Write-Ups"
-    url: /_posts/ctf
+    url: /posts/ctf
   - title: "Other"
-    url: /_posts/other
+    url: /posts/other
   - title: "Tools & Resources"
     url: /_pages/tools.md
   - title: "About"
