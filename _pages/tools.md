@@ -1,5 +1,6 @@
 ---
 permalink: "/tools"
+title: "Tools & Resources"
 ---
 
 ## DFIR
