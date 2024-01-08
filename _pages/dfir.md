@@ -1,7 +1,5 @@
 ---
-layout: page
 permalink: /posts/dfir/
-title: Posts about "dfir"
 ---
 
 <div class="posts">
