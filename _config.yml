@@ -290,6 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      classes: wide
   # _pages
   - scope:
       path: ""
@@ -297,3 +298,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
