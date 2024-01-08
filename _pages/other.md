@@ -1,6 +1,5 @@
 ---
 permalink: /posts/other/
-title: ""
 ---
 
 <div class="posts">
