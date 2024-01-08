@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /posts/ctf/
+title: Posts about "ctf"
+---
 
 <div class="posts">
   {% for post in site.categories['ctf'] %}
