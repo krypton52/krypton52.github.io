@@ -1,6 +1,7 @@
 ---
 permalink: "/about"
 ---
+## About me
 
 Hello everyone! My name is Maxime Thibodeau and I've been working in law enforcement since 2012, more specifically in digital forensics since 2019. I discovered a passion for the field and since then, I've been racking up courses and certifications without counting the time. For more than a year, I wanted to start a blog to documents my findings. 
 
